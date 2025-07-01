@@ -14,5 +14,12 @@ https://github.com/user-attachments/assets/08cadda3-08d1-4676-9cb6-6d9c70931789
 ## Robustness against load model mismatch 
 https://github.com/user-attachments/assets/ecc4b1cc-0d6e-4633-95f5-5e6bf7d1d57e
 
+## Full-pose control with four UAVs
+https://github.com/user-attachments/assets/24386cc5-272b-4431-827a-6420075fb704
+
+## Trajectory tracking
+https://github.com/user-attachments/assets/d36d76ce-121c-460e-aff7-ded0bbe0c427
+
+
 
 
